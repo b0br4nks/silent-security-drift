@@ -1,0 +1,4 @@
+Temperature,Total Configs,Vulnerable,Vuln Rate (%),CRITICAL,MEDIUM,Precision (%),Recall (%)
+0.3,100,11,11.0,6,5,100.0,15.7
+0.7,100,13,13.0,9,4,100.0,18.6
+1.0,100,11,11.0,8,3,72.7,11.4

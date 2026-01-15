@@ -1,0 +1,6 @@
+Category,Total Configs,Vulnerable,Rate (%)
+Routing,63,6,9.5
+Security,33,16,48.5
+VLAN,51,2,3.9
+QoS,87,10,11.5
+ACL,66,1,1.5
